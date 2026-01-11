@@ -32,15 +32,14 @@ The purpose of this project is to:
 
 ## 📁 Project Structure
 
+| File / Folder | Description |
+|--------------|------------|
+| index.html | Main webpage |
+| css/style.css | Styling file |
+| js/script.js | JavaScript functionality |
+| assets/images/ | Images used in the project |
+| README.md | Project documentation |
 
-├── index.html
-├── css/
-│   └── style.css
-├── js/
-│   └── script.js
-├── assets/
-│   └── images/
-└── README.md
 ---
 
 ## 🚀 How to Run This Project
