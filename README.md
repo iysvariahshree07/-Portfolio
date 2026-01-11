@@ -30,10 +30,9 @@ The purpose of this project is to:
 
 ---
 
-## 📂 Project Structure
-
 ## 📁 Project Structure
 
+```text
 ├── index.html
 ├── css/
 │   └── style.css
