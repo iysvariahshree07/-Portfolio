@@ -32,14 +32,17 @@ The purpose of this project is to:
 
 ## 📂 Project Structure
 
+## 📁 Project Structure
+
 ├── index.html
 ├── css/
-│ └── style.css
+│   └── style.css
 ├── js/
-│ └── script.js
+│   └── script.js
 ├── assets/
-│ └── images/
+│   └── images/
 └── README.md
+
 
 ---
 
